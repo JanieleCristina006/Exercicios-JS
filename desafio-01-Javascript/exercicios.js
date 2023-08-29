@@ -122,7 +122,7 @@ console.log(sobre.nome,sobre.idade,sobre.cordocabelo)
 
 //18 - Crie um array  chamado "cadastro" contendo ao menos 5 objetos.Cada objeto deve receber as seguintes propriedades: nome,  idade,  telefone, amigos.Na propriedade amigos, adicione ao menos 4 amigos.
 
-// Criando o array "cadastro" com objetos
+
 var cadastro = [
     {
       nome: "Janiele",
